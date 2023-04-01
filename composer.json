@@ -1,0 +1,22 @@
+{
+  "name": "bluecadet/bluecadet-log",
+  "description": "Adds logging capabilities",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Pete Inge",
+      "email": "pete.inge@gmail.com",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Shaun",
+      "email": "shaun.baer@gmail.com",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.4||^8.0"
+  }
+}
